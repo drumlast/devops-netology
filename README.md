@@ -11,3 +11,28 @@
 ##### Производим первоначальную настройку Git
 ##### Выполняем команду git status
 ![txt](img/3.png)
+
+##### Переведите файл в состояние staged
+##### Делаем коммит
+![txt](img/4.png)
+![txt](img/5.png)
+
+##### Создаем файл .gitignore
+##### Комиттим все новые и изменённые файлы
+```
+Этот .gitignore исключает временные и чувствительные файлы Terraform (*.tfstate, .terraform/, .backup и др)
+```
+![txt](img/6.png)
+![txt](img/7.png)
+
+##### Создаем файлы will_be_deleted.txt (с текстом will_be_deleted) и will_be_moved.txt (с текстом will_be_moved)
+##### Удаляем файл will_be_deleted.txt с диска и из репозитория.
+##### Переименовываем (перемещаем) файл will_be_moved.txt на диске и в репозитории
+##### Комиттим результат работы с комментарием Moved and deleted
+![txt](img/8.png)
+![txt](img/8-1.png)
+![txt](img/8-2.png)
+
+##### Проверка изменений командой git log
+![txt](img/9.png)
+
