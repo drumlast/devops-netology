@@ -45,3 +45,9 @@
 ![txt](img/13.png)
 ![txt](img/11.png)
 ![txt](img/12.png)
+
+##### Задание 3. Ветки + Задание 4. Упрощаем себе жизнь
+![txt](img/14.png)
+![txt](img/15.png)
+![txt](img/16.png)
+![txt](img/17.png)
